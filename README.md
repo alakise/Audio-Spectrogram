@@ -1,5 +1,5 @@
 
-# Sound-Spectrogram
+# Audio-Spectrogram
 Generating sound spectrograms using short-time Fourier transform that can be used for purposes such as sound classification by machine learning algorithms.
 
 You can read more about the code repository in the following article: 
