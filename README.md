@@ -6,7 +6,7 @@ You can read more about the code repository in the following article:
 [Creating Spectrograms From Audio Files Using Python](https://www.alakise.com/bilgisayar-bilimi/makine-ogrenimi/creating-spectrograms-from-audio-files-using-python).
 
 Also available in Turkish:
-[Python ile Ses Dosyalarının Spektrogramlarının Oluşturulması](https://www.alakise.com/bilgisayar-bilimi/makine-ogrenimi/python-ile-ses-dosyalarinin-spektrogramlarinin-olusturulmasi/)
+[Python ile Ses Dosyalarının Spektrogramlarının Oluşturulması](https://www.alakise.com/bilgisayar-bilimi/makine-ogrenimi/ses-spektrogrami/)
  ## Compatibility
 The code is tested using SciPy 1.3.1, NumPy 1.17.0, Matplotlib 3.1.1 under Windows 10 with Python 3.7 and Python 3.5. Similiar versions of those libraries probably works.
  
