@@ -39,19 +39,8 @@ You can run the code on the command line using:
 
 The third argument passed on the command line can take two letters: 'l' for labelled, and 's' for save. Set your output folder in code.
 
-Example labelled output in window (1kHz-20dbFS.wav - 1kHZ sinus wave at -20dBFS):
-![1kHz sinus wave at 20dbFS for 3 seconds.](https://www.alakise.com/wp-content/uploads/2019/08/image-5.png)
-
-
-
 ## Test
-Tested with audio files in "examples" folder. Following images shows two of them:
-1kHz-10kHz Sweep -40dbFS:
-![](https://www.alakise.com/wp-content/uploads/2019/08/image-6-1024x586.png)
-
-Me saying "Merhaba Dünya"(hello world):
-![](https://www.alakise.com/wp-content/uploads/2019/08/image-7.png)
+Tested with audio files in "examples" folder.
 
 ## License
-
 By committing your code to the this repository  you agree to release the code under the MIT License attached to the repository.
